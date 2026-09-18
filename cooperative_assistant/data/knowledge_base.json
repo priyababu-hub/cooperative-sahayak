@@ -1,0 +1,41 @@
+{
+  "collection": "cooperative_knowledge",
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "total_chunks": 58,
+  "categories": [
+    "Agriculture",
+    "Cooperative Services",
+    "Financial Literacy",
+    "Laws & By-laws",
+    "PACS Services",
+    "Insurance",
+    "Grievance Redressal",
+    "Government Schemes"
+  ],
+  "chunks": [
+    {
+      "id": "chunk_1",
+      "category": "Agriculture",
+      "title": "PMFBY (Pradhan Mantri Fasal Bima Yojana) - Objectives & Coverage",
+      "content": "Pradhan Mantri Fasal Bima Yojana (PMFBY) is the flagship crop insurance scheme of the Government of India designed to provide financial support to farmers suffering crop loss or damage arising from unforeseen natural events.",
+      "source": "Ministry of Agriculture & Farmers Welfare, PMFBY Operational Guidelines",
+      "keywords": ["pmfby", "crop insurance", "fasal bima", "பயிர் காப்பீடு", "பயிர் நஷ்டம்", "விவசாய திட்டம்", "फसल बीमा", "पीएमएफबीवाई", "प्राकृतिक आपदा", "crop loss", "heavy rain", "flood", "cyclone"]
+    },
+    {
+      "id": "chunk_2",
+      "category": "Agriculture",
+      "title": "PMFBY - Coverage of Risks: Heavy Rain, Flood, and Inundation",
+      "content": "PMFBY covers localized calamities including heavy unseasonal rain, inundation/waterlogging, hailstorms, landslides, cloudbursts, and natural fire. When standing crops are submerged or damaged due to heavy rain or flooding, farmers are eligible for localized assessment.",
+      "source": "PMFBY Localized Calamity and Post-Harvest Loss Provisions",
+      "keywords": ["heavy rain", "inundation", "flood", "standing crop", "rain damage", "கனமழை", "மழை சேதம்", "வெள்ளம்", "பயிர் சேதம்", "பயிர் நீரில் மூழ்கியது", "भारी बारिश", "बाढ़", "जलभराव", "फसल नुकसान", "बारिश से खराब"]
+    },
+    {
+      "id": "chunk_3",
+      "category": "Agriculture",
+      "title": "PMFBY - Mandatory 72-Hour Claim Notification Rule",
+      "content": "For localized calamities such as heavy rain, inundation, hailstorm, or cyclone, the farmer MUST report the crop loss within 72 hours (3 days) of the occurrence through the Crop Insurance App, toll-free helpline 14447, or nearest Bank/PACS.",
+      "source": "PMFBY Claim Intimation Protocol",
+      "keywords": ["72 hours", "claim notification", "intimation", "crop insurance app", "14447", "72 மணி நேரம்", "அறிவிப்பு", "புகார் பதிவு", "ஹெல்ப்லைன்", "72 घंटे", "दावा सूचना", "टोल फ्री", "शिकायत", "सूचना देना"]
+    }
+  ]
+}

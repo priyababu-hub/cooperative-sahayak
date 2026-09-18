@@ -1,0 +1,6 @@
+{
+  "name": "Cooperative Sahayak",
+  "description": "Multilingual voice-based AI cooperative assistance platform in Tamil, English, and Hindi for cooperative society members, farmers, and rural citizens.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
